@@ -1,0 +1,23 @@
+{
+  "name": "less-issue-2761",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node less-compile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigstada/less-issue-2761.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gigstada/less-issue-2761/issues"
+  },
+  "homepage": "https://github.com/gigstada/less-issue-2761#readme",
+  "dependencies": {
+    "less": "^2.7.3"
+  }
+}
